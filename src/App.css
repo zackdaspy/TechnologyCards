@@ -27,3 +27,11 @@ body {
   color: #64748b;
   margin-bottom: 20px;
 }
+
+.card-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

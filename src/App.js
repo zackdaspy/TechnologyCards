@@ -39,6 +39,7 @@ const cardsList = [
 function App() {
   return (
     <div className="App">
+      <h1>Learn 4.0 Technologies</h1>
       <p className="intro-paragraph">
         Get trained by alumni of IITs and top companies
       </p>
